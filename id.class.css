@@ -1,0 +1,17 @@
+/*id_class.css*/
+.odd{
+    background-color: #f9c9d1;
+    font-family: verdana, Dejavu sans,sans-serif ;
+}
+#number2{
+    color:blue;
+    font-size: 36px;
+}
+#number6{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 200;
+}
+.oddClass:nth-last-of-type(2){
+    font-size: 24px;
+}
